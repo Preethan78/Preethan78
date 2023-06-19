@@ -2,5 +2,5 @@ Hello there! I'm Preethan A, a final year Mechanical Engineering student with a 
 I’m interested in 
 Artificial Intelligence, Machine Learning, Data Science, Robotics, Automation
 I’m currently learning Python
-How to reach me (Linkedin)- https://www.linkedin.com/in/preethan27/
+You can reach me on (Linkedin)- https://www.linkedin.com/in/preethan27/
 
